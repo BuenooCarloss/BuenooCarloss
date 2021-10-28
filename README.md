@@ -1,7 +1,7 @@
 Olá, me chamo Carlos Eduardo!!
 
 
-- 🔭 A procura de uma oportunidade de emprego
+- 🔭 A procura de uma oportunidade de estágio como dev
 - 🌱 Estudante de Analise e Desenvolvimento de Sistemas e Python
 - 🤔 Atualmente atuo em Back-end
 
