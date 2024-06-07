@@ -1,11 +1,6 @@
 Olá, me chamo Carlos Eduardo!!
 
 
-- 🔭 Estagiário em RDI SOFTWARE
-- 🌱 Estudante de Analise e Desenvolvimento de Sistemas e Python
-- 🤔 Atualmente atuo em Back-end
-
-
 <div align="center">
   <a href="https://github.com/BuenooCarloss">
     <img height="175em" src="https://github-readme-stats.vercel.app/api?username=BuenooCarloss&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
